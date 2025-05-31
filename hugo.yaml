@@ -1,4 +1,28 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: ["PaperMod"]
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: "PaperMod"
+
+params:
+  env: production
+  title: "Zubair's Blog"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  UseHugoToc: true
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
