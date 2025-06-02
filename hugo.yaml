@@ -1,15 +1,22 @@
 baseURL: "https://blog.zubairshaik.net/"
 languageCode: "en-us"
-title: "Zubair Shaik's Blog"
+title: "Zubair' Tech Trails"
 theme: "PaperMod"
 
 params:
   env: production
-  title: "Zubair's Blog"
+  title: "Zubair's Tech Trails-"
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   UseHugoToc: true
+  comments:
+    provider: "giscus"
+    giscusRepo: "zubshaikk/myblog"
+    giscusCategory: "Comments"
+    mapping: "pathname"
+    theme: "dark_dimmed"
+    inputPosition: "bottom"
 
 menu:
   main:
