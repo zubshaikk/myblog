@@ -1,6 +1,6 @@
 baseURL: "https://blog.zubairshaik.net/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "Zubair Shaik's Blog"
 theme: "PaperMod"
 
 params:
