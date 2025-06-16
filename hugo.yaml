@@ -1,22 +1,26 @@
 baseURL: "https://blog.zubairshaik.net/"
 languageCode: "en-us"
-title: "Zubair' Tech Trails"
+title: "Zubair's Tech Trails"
 theme: "PaperMod"
 
 params:
   env: production
-  title: "Zubair's Tech Trails-"
+  title: "Zubair's Tech Trails"
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   UseHugoToc: true
-  comments:
-    provider: "giscus"
-    giscusRepo: "zubshaikk/myblog"
-    giscusCategory: "Comments"
-    mapping: "pathname"
-    theme: "dark_dimmed"
-    inputPosition: "bottom"
+  ShareButtons: ["linkedin", "twitter"]
+  socialIcons:
+    - name: github
+      url: "https://github.com/zubshaikk"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/zubairshaikahmed/"
+  homeInfoParams:
+    Title: "👋 Welcome to My Blog"
+    Content: >
+      Hi, I’m Zubair—a Computer Science student specializing in cybersecurity.
+      Here I share hands-on experiments, tutorials, insights, and stories from my journey.
 
 menu:
   main:
