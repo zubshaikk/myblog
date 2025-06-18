@@ -21,6 +21,10 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
+
+cover:
+  image: "images/covers/What_is_security.png"
+  alt:   "What is Security? cover"
 ---
 # What does it mean to be Secure?
 You lock your front door every night. You check it twice before bed, maybe even give it a gentle tug to make sure it's really latched. You feel secure. You sleep soundly, confident that you've taken all the necessary precautions to protect yourself.
