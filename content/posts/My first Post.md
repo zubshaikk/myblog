@@ -21,6 +21,11 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
+
+cover:
+  image: "images/covers/my_first_post.png"
+  alt:   "My first post cover"
+  hidden: true
 ---
 
 I'm Zubair, a Computer Science student specialising in Cyber security at The University of York. This is my attempt to turn scribbles and half-finished notes into something useful. What I've come to realise is that, learning to express what's swirling around in my head, explaining it on the page - is as important for me as it might be for anyone reading. Sharing those experiences, both the wins and the face plants is one of the best ways to learn, because articulating a thought often reveals gaps I didn't even know were there.
