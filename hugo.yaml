@@ -19,13 +19,6 @@ params:
     Content: >
       Hi, I’m Zubair—a Computer Science student specializing in cybersecurity.
       Here I share hands-on experiments, tutorials, insights, and stories from my journey.
-  cloudinaryCloudName: "ds3nqsbrq"
-  images:
-    - "{{ if .IsPage }}"
-    {{- printf "https://res.cloudinary.com/%s/image/upload/l_text:Arial_60_bold:%s,co_rgb:FFFFFF,g_north,y_80/l_text:Arial_32:%s,co_rgb:FFFFFF,g_south,y_80/og-bg.png" .Site.Params.cloudinaryCloudName (.Title | urlquery) (printf \"%s • %d min read\" .Site.Params.author .ReadingTime | urlquery) | urlquery -}}
-    "{{ else }}"
-      "/images/default-og.png"
-    "{{ end }}"
 
 
 menu:
