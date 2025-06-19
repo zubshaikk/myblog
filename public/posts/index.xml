@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Zubair&#39;s Tech Trails</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why You Should Start Writing</title>
+      <link>http://localhost:1313/posts/why-you-should-start-writing/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-you-should-start-writing/</guid>
+      <description>Why I started writing blog posts because of AI—and why you should too. In a world of synthetic content, your authentic voice has never been more valuable.</description>
+    </item>
     <item>
       <title>What is Security?</title>
       <link>http://localhost:1313/posts/what-is-security/</link>
