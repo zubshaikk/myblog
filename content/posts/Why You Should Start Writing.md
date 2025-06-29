@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Why I started writing blog posts because of AI—and why you should too. In a world of synthetic content, your authentic voice has never been more valuable."
+description: "Why I started writing blog posts because of AI, and why you should too. In a world of synthetic content, your authentic voice has never been more valuable."
 canonicalURL: ""
 disableHLJS: false
 disableShare: false

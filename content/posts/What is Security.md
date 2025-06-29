@@ -61,7 +61,7 @@ Here's where things get truly unsettling: the more you understand about security
 
 When you were young and naive about technology, you worried about obvious threats: don't give strangers your password, don't click suspicious links. The rules were simple because your world was simple. But as you peel back the layers of how technology actually works, each answer reveals ten new questions.
 
-You learn that your keyboard might be logging your keystrokes, so you become careful about what you type. Then you discover that your phone is tracking your location even when GPS is "off." Then you realize your smart TV is listening to your conversations. Then you find out your car is reporting your driving habits to insurance companies. Then you understand that your fitness tracker knows more about your health than your doctor does. Each new piece of knowledge doesn't make you more secure—it makes you more aware of how insecure you've always been. The ignorant sleep peacefully. The informed don't sleep at all. Security awareness is a one-way door: once you walk through it, you can never go back to not knowing.
+You learn that your keyboard might be logging your keystrokes, so you become careful about what you type. Then you discover that your phone is tracking your location even when GPS is "off." Then you realize your smart TV is listening to your conversations. Then you find out your car is reporting your driving habits to insurance companies. Then you understand that your fitness tracker knows more about your health than your doctor does. Each new piece of knowledge doesn't make you more secure, it makes you more aware of how insecure you've always been. The ignorant sleep peacefully. The informed don't sleep at all. Security awareness is a one-way door: once you walk through it, you can never go back to not knowing.
 
 But here's the real twist: the people who know the most about security often have the least secure lives. Not because they're careless, but because perfect security is incompatible with functional living. The security expert who understands every threat is paralyzed by the impossibility of defending against all of them. The average user who understands none of the threats lives normally, accidentally achieving better practical security through blissful ignorance.
 
@@ -74,14 +74,14 @@ But here's the paradox that makes it mind-bending, this system of organized dist
 
 You trust your bank's security because you distrust everyone else's. You trust Signal's encryption because you distrust Facebook's data handling. You trust your password manager because you distrust your own memory. Every act of security is an act of transferring trust from one place to another, never eliminating it. The chain of trust extends infinitely backward. You trust your encryption because you trust the mathematics behind it. You trust the mathematics because you trust the mathematicians who proved it. You trust the mathematicians because you trust the institutions that trained them. You trust the institutions because you trust the society that created them.
 
-At some point, the chain of trust disappears into assumptions you can't verify, built by people you'll never meet, based on principles you take on faith. Security isn't about eliminating trust—it's about hiding the places where trust is required so we can pretend it doesn't exist.
+At some point, the chain of trust disappears into assumptions you can't verify, built by people you'll never meet, based on principles you take on faith. Security isn't about eliminating trust, it's about hiding the places where trust is required so we can pretend it doesn't exist.
 
 ## The future that's already here
 The most unsettling realization is that we're already living in the future we were trying to prevent.
 
 Remember when we worried about Big Brother (the government) watching us? We have solved that problem by creating thousands of Little Brothers (companies like Google, Meta, Apple) who watch us voluntarily, constantly. We avoided government surveillance by embracing corporate surveillance. We prevented authoritarianism by creating something subtler and more pervasive, surveillance capitalism that feels like convenience. We were so focused on preventing the dystopia where our privacy was taken by force that we didn't notice the dystopia where we gave it away freely.
 
-The threats we prepared for were external—hackers, criminals, foreign governments. The threats that actually materialized were internal—our own desire for convenience, connection, and control. We built defences against strangers breaking in while we were busy inviting them in through the back door.
+The threats we prepared for were external, hackers, criminals, foreign governments. The threats that actually materialized were internal, our own desire for convenience, connection, and control. We built defences against strangers breaking in while we were busy inviting them in through the back door.
 
 ## What security actually means
 So what does it really mean to be secure? After all this, I think the answer is both simpler and more complex than we imagined.
